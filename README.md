@@ -1,4 +1,4 @@
 # Hospital Management System
 
-Java Project
+Java Web Application Project
 
